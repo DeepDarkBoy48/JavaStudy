@@ -1,5 +1,3 @@
-
-
 public class IntDetail { 
 
 	//编写一个main方法

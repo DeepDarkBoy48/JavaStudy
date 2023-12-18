@@ -1,15 +1,14 @@
-
 public class Var02 { 
 
-	//编写一个main方法
+	//锟斤拷写一锟斤拷main锟斤拷锟斤拷
 	public static void main(String[] args) {
-		//记录人的信息
+		//锟斤拷录锟剿碉拷锟斤拷息
 		int age = 30;
 		double score = 88.9;
-		char gender = '男';
+		char gender = 'man';
 		String name = "king";
-		//输出信息, 快捷键
-		System.out.println("人的信息如下:");
+		//锟斤拷锟斤拷锟较?, 锟斤拷菁锟?
+		System.out.println("锟剿碉拷锟斤拷息锟斤拷锟斤拷:");
 		System.out.println(name);
 		System.out.println(age);
 		System.out.println(score);

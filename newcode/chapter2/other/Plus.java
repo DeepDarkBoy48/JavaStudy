@@ -1,5 +1,3 @@
-
-
 public class Plus { 
 
 	//编写一个main方法

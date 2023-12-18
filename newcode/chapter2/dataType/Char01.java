@@ -10,7 +10,7 @@ public class Char01 {
 		char c3 = '韩';
 		char c4 = 97; //说明: 字符类型可以直接存放一个数字
 		//修改快捷键 
-		//删除当前行的快捷键使用 ctrl+shif+k => ctrl+ k
+		//删除当前行的快捷键使K用 ctrl+shif+k => ctrl+ k
 		System.out.println(c1);
 		System.out.println(c2);
 		System.out.println(c3);

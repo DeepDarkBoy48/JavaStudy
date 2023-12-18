@@ -1,5 +1,3 @@
-
-
 public class VarDetail { 
 
 	//编写一个main方法
