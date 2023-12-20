@@ -10,7 +10,9 @@ public class InverseOperator {
 		System.out.println(!(60 > 20)); //F
 
 		//a^b: 叫逻辑异或，当 a 和 b 不同时，则结果为true, 否则为false
-		boolean b = (10 > 1) ^ ( 3 > 5);
+		boolean b = (10 > 1) ^ ( 3 < 5);
 		System.out.println("b=" + b);//T
+		boolean a = (10 > 1) ^ ( 3 > 5);
+		System.out.println("b=" + a);//T
 	}
 }

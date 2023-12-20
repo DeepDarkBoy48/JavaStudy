@@ -24,7 +24,7 @@ public class LogicOperator02 {
 		//(2)| 逻辑或：不管第一个条件是否为true，第二个条件都要判断，效率低
 		int a = 4;
 		int b = 9;
-		if( a > 1 || ++b > 4) { // 可以换成 | 测试
+		if( a > 1 | ++b > 4) { // 可以换成 | 测试
 			System.out.println("ok300");
 		}
 		System.out.println("a=" + a + " b=" + b); //4 10
