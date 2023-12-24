@@ -34,6 +34,16 @@ Scanner myScanner  = new Scanner(System.in);
 name = myScanner.next();
 ```
 
+1. `import java.util.Scanner;`：这行代码导入了Java的`java.util`包中的`Scanner`类，这是使用Scanner进行输入操作的必要步骤。
+
+```java
+char key = myScanner.next().charAt(0);
+```
+
+1. `myScanner`是一个Scanner对象，通常用于从标准输入(System.in)或其他输入源中读取用户输入。
+2. `myScanner.next()`会读取一个字符串（或标记），然后`.charAt(0)`会获取这个字符串的第一个字符。
+3. 最终，第一个字符被存储在名为`key`的`char`变量中，以供后续使用。
+
 ### 3.string
 
 #### 3.1 equals()
