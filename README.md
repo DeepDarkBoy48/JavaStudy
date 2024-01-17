@@ -53,7 +53,7 @@ String a = new String("test");
 boolean isEqual = "test".equals(name)//返回true
 ```
 
-
+字符串比较
 
 
 
@@ -114,3 +114,18 @@ boolean isEqual = "test".equals(name)//返回true
    - 例子：`~1101 = 0010`（假设我们只考虑4位）。每个位都反转了。
 
 这些运算符在多种编程语言中都有实现，常用于位掩码、权限控制、数据压缩和加密等领域。在实际应用中，它们可以用来操作和检查数据的特定位。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

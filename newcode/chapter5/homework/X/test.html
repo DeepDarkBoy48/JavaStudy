@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .todo-list {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .todo-item {
+            margin: 10px 0;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        .todo-item.done {
+            text-decoration: line-through;
+            color: #888;
+        }
+
+        .todo-item.done .todo-checkbox {
+            border-color: #888;
+        }
+
+        .todo-checkbox {
+            width: 20px;
+            height: 20px;
+            border: 1px solid #ddd;
+            border-radius: 50%;
+            cursor: pointer;
+            display: inline-block;
+            margin-right: 10px;
+        }
+
+        .todo-checkbox.checked {
+            background: #ddd;
+        }
+
+        .todo-delete {
+            float: right;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Todo App</h1>
+
+    <form id="todo-form">
+        <input type="text" id="todo-input" placeholder="What needs to be done?" required>
+        <button type="submit">Add Todo</button>
+    </form>
+
+    <ul id="todo-list" class="todo-list"></ul>
+
+    <script>
+        var todoForm = document.getElementById('todo-form');
+        var todoInput = document.getElementById('todo-input');
+        var todoList = document.getElementById('todo-list');
+
+        todoForm.addEventListener('submit', function (event) {
+            event.preventDefault();
+
+            var todoText = todoInput.value;
+            todoInput.value = '';
+
+            var todoItem = document.createElement('li');
+            todoItem.classList.add('todo-item');
+
+            var todoCheckbox = document.createElement('span');
+            todoCheckbox.classList.add('todo-checkbox');
+            todoCheckbox.addEventListener('click', function () {
+                todoItem.classList.toggle('done');
+                todoCheckbox.classList.toggle('checked');
+            });
+
+            var todoDelete = document.createElement('span');
+            todoDelete.classList.add('todo-delete');
+            todoDelete.textContent = 'Delete';
+            todoDelete.addEventListener('click', function () {
+                todoList.removeChild(todoItem);
+            });
+
+            var todoTextNode = document.createTextNode(' ' + todoText);
+
+            todoItem.appendChild(todoCheckbox);
+            todoItem.appendChild(todoTextNode);
+            todoItem.appendChild(todoDelete);
+
+            todoList.appendChild(todoItem);
+        });
+    </script>
+</body>
+
+</html>
