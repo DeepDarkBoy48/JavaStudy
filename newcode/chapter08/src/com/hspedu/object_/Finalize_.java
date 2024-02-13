@@ -26,6 +26,5 @@ class Car {
     protected void finalize() throws Throwable {
         System.out.println("我们销毁 汽车" + name );
         System.out.println("释放了某些资源...");
-
     }
 }

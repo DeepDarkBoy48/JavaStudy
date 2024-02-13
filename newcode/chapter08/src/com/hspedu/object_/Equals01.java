@@ -46,7 +46,6 @@ public class Equals01 {
 
 
         "hello".equals("abc");
-
         //看看Object类的 equals 是
         /*
         //即Object 的equals 方法默认就是比较对象地址是否相同
@@ -78,10 +77,11 @@ public class Equals01 {
         System.out.println(str1.equals(str2));//true
 
 
-
-
     }
 }
 
-class B {}
-class A extends B {}
+class B {
+}
+
+class A extends B {
+}

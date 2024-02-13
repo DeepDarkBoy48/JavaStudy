@@ -55,6 +55,91 @@ boolean isEqual = "test".equals(name)//返回true
 
 字符串比较
 
+## 4. arrcopy
+
+```
+System.arraycopy(original, 0, newArray, 0, original.length);
+```
+
+这行代码的具体含义如下：
+
+1. **original**：这是源数组，也就是你想从中复制数据的数组。
+2. **0**：这是源数组的起始位置，意味着复制将从 `original` 数组的第一个元素开始。
+3. **newArray**：这是目标数组，即将复制数据到这个数组中。
+4. **0**：这是目标数组的起始位置，意味着复制的数据将从 `newArray` 数组的第一个元素位置开始放置。
+5. **original.length**：这是要复制的元素数量。在这个例子中，它等于整个 `original` 数组的长度，这意味着整个 `original` 数组的内容都将被复制到 `newArray` 中。
+
+
+
+## 5. parseInt
+
+`parseInt`是Java中`Integer`类的一个静态方法，用于将字符串转换成基本数据类型`int`。这个方法是处理字符串和整数之间转换的常用方式，尤其在读取文本数据或用户输入时非常有用。`parseInt`方法可以根据给定的字符串和进制来解析整数。
+
+
+
+## 6 valueOf
+
+`valueOf`方法是Java中的一个静态方法，它被包装类用来将字符串或基本数据类型的值转换为对应的包装类对象。这个方法在各个包装类中有不同的实现，根据输入参数的不同，可以将字符串或基本数据类型的值转换为包装类的实例。`valueOf`方法是自动装箱机制的一部分，但也可以被直接调用以创建包装类的实例。
+
+以下是一些常见包装类中`valueOf`方法的使用示例：
+
+### Integer
+
+```java
+Integer i = Integer.valueOf(10); // 将int转换为Integer对象
+Integer j = Integer.valueOf("123"); // 将String转换为Integer对象
+```
+
+### Double
+
+```java
+Double d = Double.valueOf(10.5); // 将double转换为Double对象
+Double e = Double.valueOf("12.34"); // 将String转换为Double对象
+```
+
+### Boolean
+
+```java
+Boolean b = Boolean.valueOf(true); // 将boolean转换为Boolean对象
+Boolean c = Boolean.valueOf("true"); // 将String转换为Boolean对象
+```
+
+### Character
+
+Character类没有接受字符串的`valueOf`方法，因为`Character`包装类用于单个字符，所以它的`valueOf`方法只接受一个`char`类型的参数：
+
+```java
+Character ch = Character.valueOf('a'); // 将char转换为Character对象
+```
+
+`valueOf`方法的主要用途包括：
+
+1. **类型转换**：它允许将基本数据类型或字符串转换为相应的包装类对象。
+2. **性能优化**：某些包装类（如`Integer`和`Boolean`）通过内部缓存机制，对`valueOf`方法的调用进行了优化，以减少对象创建的开销。例如，`Integer.valueOf`会缓存-128到127之间的数值。
+3. **代码简洁性**：使用`valueOf`方法可以使代码更加简洁明了，尤其是在自动装箱和拆箱提供便利的同时，还需要显式地进行类型转换时。
+
+通过`valueOf`方法，Java提供了一种标准化的方式来创建和管理包装类对象，这对于执行类型转换和优化性能都是非常有用的。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

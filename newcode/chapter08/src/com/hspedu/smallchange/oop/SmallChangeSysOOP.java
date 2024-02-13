@@ -48,7 +48,7 @@ public class SmallChangeSysOOP {
             //使用switch 分支控制
             switch (key) {
                 case "1":
-                    this.detail();
+                    detail();
                     break;
                 case "2":
                     this.income();

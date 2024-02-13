@@ -1,6 +1,6 @@
 package com.hspedu.poly_.polyparameter_;
 
-public class Manager extends Employee{
+public class Manager extends Employee {
 
     private double bonus;
 
@@ -16,12 +16,14 @@ public class Manager extends Employee{
     public void setBonus(double bonus) {
         this.bonus = bonus;
     }
+
     public void manage() {
         System.out.println("经理 " + getName() + " is managing");
     }
-    //重写获取年薪方法
+
     @Override
     public double getAnnual() {
         return super.getAnnual() + bonus;
     }
+    //重写获取年薪方法
 }

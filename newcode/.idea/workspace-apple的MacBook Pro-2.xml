@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b141a76-861d-41ee-ac13-ce90e80422e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/CardiffJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/AverageDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/AverageFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/AverageWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/Bool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/BreakAndContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/Comparing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/Concatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/ForExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/GettingInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/IfExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/Importing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/PrimitiveTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/PrintfExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/SwitchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/WhileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardiffJava/src/Class1/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace-apple的MacBook Pro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/.idea/chapter08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/houserent/HouseRentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/houserent/domain/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/houserent/service/HouseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/houserent/utils/TestUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/houserent/utils/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/houserent/view/HouseView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework05X/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework05X/Peasant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework05X/Science.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework05X/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework05X/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework05X/homework05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homeworkX/homework01X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homeworkX/homework03X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homeworkX/homework08X/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homeworkX/homework08X/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homeworkX/homework08X/Homework08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homeworkX/homework08X/SavingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homeworkX/homework09X/Homework09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homeworkX/homework09X/LabeledPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homeworkX/homework09X/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homeworkX/homework10X/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homeworkX/homework10X/homework10X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homeworkX/homework13X/Homework13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homeworkX/homework13X/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homeworkX/homework13X/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homeworkX/homework13X/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/override_/exerciseX/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/override_/exerciseX/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/override_/exerciseX/overrideExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyX/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyX/Bone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyX/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyX/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyX/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyX/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyX/Master.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyX/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyX/Poly01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyX/Rice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyparameter_/polyparameterX/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyparameter_/polyparameterX/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyparameter_/polyparameterX/PolyParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyparameter_/polyparameterX/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/smallchange/smallchangeX/SmallChangeSys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09X/chapter09X.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09X/src/houserent/HouseRentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09X/src/houserent/domain/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09X/src/houserent/service/HouseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09X/src/houserent/utils/TestUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09X/src/houserent/utils/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09X/src/houserent/view/HouseView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/chapter10X.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/abstract_/AA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/abstract_/Abstract01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/abstract_/AbstractDetail01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/abstract_/AbstractDetail02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/abstract_/AbstractExercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/abstract_/BB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/abstract_/CommonEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/abstract_/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/abstract_/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/abstract_/Template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/abstract_/TestTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/abstract_/X/AA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/abstract_/X/BB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/abstract_/X/TestTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/codeblock_/CodeBlock01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/codeblock_/CodeBlockDetail01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/codeblock_/CodeBlockDetail02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/codeblock_/CodeBlockDetail03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/codeblock_/CodeBlockDetail04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/codeblock_/CodeBlockExercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/codeblock_/CodeBlockExercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/final_/Final01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/final_/FinalDetail01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/final_/FinalDetail02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/final_/FinalExercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/final_/FinalExercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/innerclass/AnonymousInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/innerclass/AnonymousInnerClassDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/innerclass/InnerClass01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/innerclass/InnerClassExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/innerclass/InnerClassExercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/innerclass/InnerClassExercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/innerclass/InnerClassExercise02X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/innerclass/LocalInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/innerclass/MemberInnerClass01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/innerclass/StaticInnerClass01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/interface_/ExtendsVsInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/interface_/InterfaceDetail01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/interface_/InterfaceDetail02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/interface_/InterfaceExercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/interface_/InterfaceExercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/interface_/InterfacePolyArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/interface_/InterfacePolyParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/interface_/InterfacePolyPass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/interface_/interface01/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/interface_/interface01/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/interface_/interface01/Interface01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/interface_/interface01/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/interface_/interface01/UsbInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/interface_/interface02/AInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/interface_/interface02/Interface02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/interface_/interface03/DBInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/interface_/interface03/Interface03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/interface_/interface03/MysqlDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/interface_/interface03/OracleDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/main_/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/main_/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/single_/SingleTon01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/single_/SingleTon02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/static_/ChildGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/static_/StaticDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/static_/StaticExercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/static_/StaticExercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/static_/StaticExercise03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/static_/StaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/static_/StaticMethodDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10X/src/com/hspedu/static_/VisitStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/chapter11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/annotation_/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/annotation_/Deprecated_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/annotation_/Father.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/annotation_/Override_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/annotation_/Son.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/annotation_/SuppressWarnings_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/enum_/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/enum_/EnumDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/enum_/EnumExercise01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/enum_/EnumExercise02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/enum_/EnumMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/enum_/Enumeration02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/enum_/Enumeration03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/enum_/Gender2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/enum_/IPlaying.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/enum_/Music.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/enum_/Season.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/enum_/Season2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/enum_/Week.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/A$1B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Boat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Car2$Air.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Car2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Cellphone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Frock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Homework01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Homework02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Homework03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Homework04$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Homework04$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Homework04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Homework05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Homework06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Homework07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Homework08$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Homework08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Horse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/ICalculate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/IMyInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Plane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/TestFrock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/Vehicles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/out/production/chapter11/com/hspedu/homework/VehiclesFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/annotation_/Deprecated_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/annotation_/Override_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/annotation_/SuppressWarnings_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/enum_/EnumDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/enum_/EnumExercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/enum_/EnumExercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/enum_/EnumMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/enum_/Enumeration01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/enum_/Enumeration02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/enum_/Enumeration03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/homework/Boat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/homework/Homework01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/homework/Homework02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/homework/Homework03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/homework/Homework04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/homework/Homework05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/homework/Homework06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/homework/Homework07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/homework/Homework08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/homework/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/homework/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/homework/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/homework/Vehicles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/src/com/hspedu/homework/VehiclesFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/chapter11X.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/annotation_/Deprecated_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/annotation_/Override_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/annotation_/SuppressWarnings_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/enum_/EnumDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/enum_/EnumExercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/enum_/EnumExercise01X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/enum_/EnumExercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/enum_/EnumMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/enum_/Enumeration01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/enum_/Enumeration02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/enum_/Enumeration03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/homework/Boat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/homework/Homework01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/homework/Homework03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/homework/Homework04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/homework/Homework05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/homework/Homework06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/homework/Homework07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/homework/Homework08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/homework/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/homework/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/homework/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/homework/Vehicles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/homework/VehiclesFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11X/src/homework/homeworkX/Homework02X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/chapter2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/chapter5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/chapter6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../draw/draw.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../draw/draw.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../draw/extendExercise2.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../draw/extendExercise2.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/chapter08.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/chapter08.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/debug_/Debug01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/debug_/Debug02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/debug_/Debug03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/debug_/Debug04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/debug_/DebugExercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/debug_/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/encap/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/encap/Encapsulation01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/encap/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/encap/TestAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/encap/X/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/encap/X/Encapsulation01X.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/encap/X/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/encap/X/TestAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/Extends01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/ExtendsDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/ExtendsTheory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/Graduate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/GrandPa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/Pupil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/Sub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/TopBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/exercise/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/exercise/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/exercise/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/exercise/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/exercise/ExtendsExercise02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/exercise/ExtendsExercise03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/exercise/NotePad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/exercise/PC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/improve_/Extends01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/improve_/Graduate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/improve_/Pupil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/extend_/improve_/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/AAA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/BBB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/CCC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/CheckingAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/Doctor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/Homework01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/Homework03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/Homework04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/Homework07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/Homework08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/Homework09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/Homework10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/Homework15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/LabeledPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/SavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/homework13/Homework13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/homework13/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/homework13/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/homework13/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/homework5/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/homework5/Homework05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/homework5/Peasant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/homework5/Scientist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/homework5/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/homework/homework5/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/houserent/HouseRentApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/houserent/domain/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/houserent/service/HouseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/houserent/utils/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/houserent/utils/TestUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/houserent/utils/Utility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/houserent/view/HouseView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/modifier/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/modifier/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/modifier/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/modifier/Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/object_/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/object_/AA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/object_/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/object_/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/object_/Equals01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/object_/EqualsExercise01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/object_/EqualsExercise02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/object_/Finalize_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/object_/HashCode_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/object_/Monster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/object_/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/object_/Person_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/object_/ToString_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/override_/AAA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/override_/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/override_/BBB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/override_/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/override_/Override01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/override_/OverrideExercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/override_/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/override_/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/pkg/Import01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/pkg/Import01X.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/pkg/PkgDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/pkg/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/Bone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/Fish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/Master.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/Pig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/PloyMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/Poly01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/PolyExercise02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/Rice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/Sub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/detail_/AA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/detail_/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/detail_/BB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/detail_/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/detail_/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/detail_/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/detail_/PolyDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/detail_/PolyDetail02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/detail_/PolyDetail03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/detail_/Sub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/dynamic_/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/dynamic_/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/dynamic_/DynamicBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/objectpoly_/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/objectpoly_/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/objectpoly_/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/objectpoly_/PolyObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/polyarr_/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/polyarr_/PloyArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/polyarr_/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/polyarr_/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/polyparameter_/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/polyparameter_/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/polyparameter_/PloyParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/poly_/polyparameter_/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/smallchange/SmallChangeSys.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/smallchange/oop/SmallChangeSysApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/smallchange/oop/SmallChangeSysOOP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/super_/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/super_/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/super_/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/super_/Super01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/temp_/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/test/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/test/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/test/ExtendsDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/test/GrandPa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/hspedu/test/Sub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/use/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/xiaoming/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/out/production/chapter08/com/xiaoqiang/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/debug_/Debug01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/debug_/Debug01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/debug_/Debug02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/debug_/Debug02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/debug_/Debug03.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/debug_/Debug03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/debug_/Debug04.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/debug_/Debug04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/debug_/DebugExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/debug_/DebugExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/encap/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/encap/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/encap/Encapsulation01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/encap/Encapsulation01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/encap/TestAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/encap/TestAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/encap/X/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/encap/X/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/encap/X/Encapsulation01X.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/encap/X/Encapsulation01X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/encap/X/TestAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/encap/X/TestAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/Extends01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/Extends01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/ExtendsDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/ExtendsDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/ExtendsTheory.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/ExtendsTheory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/Graduate.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/Graduate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/Pupil.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/Pupil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/Sub.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/Sub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/TopBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/TopBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/exercise/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/exercise/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/exercise/ExtendsExercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/exercise/ExtendsExercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/exercise/ExtendsExercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/exercise/ExtendsExercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/exercise/ExtendsExercise03.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/exercise/ExtendsExercise03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/exercise/NotePad.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/exercise/NotePad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/exercise/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/exercise/PC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/improve_/Extends01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/improve_/Extends01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/improve_/Graduate.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/improve_/Graduate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/improve_/Pupil.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/improve_/Pupil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/improve_/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/extend_/improve_/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/CheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/CheckingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Homework01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Homework01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Homework03.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Homework03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Homework04.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Homework04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Homework07.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Homework07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Homework08.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Homework08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Homework09.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Homework09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Homework10.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Homework10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Homework15.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Homework15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/LabeledPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/LabeledPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/SavingsAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/SavingsAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework13/Homework13.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework13/Homework13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework13/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework13/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework13/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework13/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework13/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework13/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework5/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework5/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework5/Homework05.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework5/Homework05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework5/Peasant.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework5/Peasant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework5/Scientist.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework5/Scientist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework5/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework5/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework5/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/homework/homework5/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/houserent/HouseRentApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/houserent/HouseRentApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/houserent/domain/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/houserent/domain/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/houserent/service/HouseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/houserent/service/HouseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/houserent/utils/TestUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/houserent/utils/TestUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/houserent/utils/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/houserent/utils/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/houserent/view/HouseView.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/houserent/view/HouseView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/modifier/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/modifier/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/modifier/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/modifier/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/modifier/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/modifier/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/object_/Equals01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/object_/Equals01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/object_/EqualsExercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/object_/EqualsExercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/object_/EqualsExercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/object_/EqualsExercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/object_/Finalize_.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/object_/Finalize_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/object_/HashCode_.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/object_/HashCode_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/object_/ToString_.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/object_/ToString_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/override_/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/override_/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/override_/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/override_/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/override_/Override01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/override_/Override01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/override_/OverrideExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/override_/OverrideExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/override_/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/override_/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/override_/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/override_/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/pkg/Import01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/pkg/Import01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/pkg/Import01X.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/pkg/Import01X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/pkg/PkgDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/pkg/PkgDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/pkg/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/pkg/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/Bone.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/Bone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/Master.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/Master.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/Pig.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/Pig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/PloyMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/PloyMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/Poly01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/Poly01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/PolyExercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/PolyExercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/Rice.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/Rice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/detail_/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/detail_/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/detail_/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/detail_/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/detail_/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/detail_/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/detail_/PolyDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/detail_/PolyDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/detail_/PolyDetail02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/detail_/PolyDetail02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/detail_/PolyDetail03.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/detail_/PolyDetail03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/dynamic_/DynamicBinding.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/dynamic_/DynamicBinding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/objectpoly_/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/objectpoly_/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/objectpoly_/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/objectpoly_/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/objectpoly_/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/objectpoly_/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/objectpoly_/PolyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/objectpoly_/PolyObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyarr_/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyarr_/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyarr_/PloyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyarr_/PloyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyarr_/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyarr_/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyarr_/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyarr_/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyparameter_/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyparameter_/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyparameter_/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyparameter_/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyparameter_/PloyParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyparameter_/PloyParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyparameter_/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/poly_/polyparameter_/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/smallchange/SmallChangeSys.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/smallchange/SmallChangeSys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/smallchange/oop/SmallChangeSysApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/smallchange/oop/SmallChangeSysApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/smallchange/oop/SmallChangeSysOOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/smallchange/oop/SmallChangeSysOOP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/super_/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/super_/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/super_/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/super_/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/super_/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/super_/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/super_/Super01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/super_/Super01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/temp_/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/temp_/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/test/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/test/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/test/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/test/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/test/ExtendsDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/test/ExtendsDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/hspedu/test/Sub.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/hspedu/test/Sub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/use/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/use/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/xiaoming/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/xiaoming/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/src/com/xiaoqiang/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/src/com/xiaoqiang/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/ChangeChar2.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/ChangeChar2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/ChangeChar2.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/ChangeChar2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/ChangeCharExer2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/ChangeCharExer2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/Comment3.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/Comment3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/CommentDoc3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/CommentDoc3_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/Hello1.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/Hello1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/Tiger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/DOC/CommentDoc3_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/DOC/CommentDoc3_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/DOC/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/DOC/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/DOC/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/DOC/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/DOC/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/DOC/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/DOC/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/DOC/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/DOC/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/DOC/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/DOC/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/DOC/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/DOC/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/DOC/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/DOC/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/DOC/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/DOC/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/DOC/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/DOC/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/DOC/package-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/DOC/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/DOC/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/DOC/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/DOC/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/DOC/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/DOC/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/DOC/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/DOC/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/Homework01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/Homework01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/Homework01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/Homework01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/Homework02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/Homework02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/Homework02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/Homework02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/Homework03.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/Homework03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/Homework04.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/Homework04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/Homework05.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/Homework05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/Homework06.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/Homework06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/homework/Homework07.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/homework/Homework07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/AutoConvert.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/AutoConvert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/AutoConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/AutoConvert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/AutoConvertDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/AutoConvertDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/AutoConvertDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/AutoConvertDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/Boolean01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/Boolean01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/Boolean01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/Boolean01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/Char01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/Char01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/Char01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/Char01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/CharDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/CharDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/CharDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/CharDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/FloatDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/FloatDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/FloatDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/FloatDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/ForceConvert.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/ForceConvert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/ForceConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/ForceConvert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/ForceConvertDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/ForceConvertDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/ForceConvertDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/ForceConvertDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/IntDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/IntDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/IntDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/IntDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/StringToBasic.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/StringToBasic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/StringToBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/StringToBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/StringToBasicDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/StringToBasicDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/dataType/StringToBasicDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/dataType/StringToBasicDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/homework/Homework01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/homework/Homework01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/homework/Homework01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/homework/Homework01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/homework/Homework02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/homework/Homework02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/homework/Homework02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/homework/Homework02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/homework/Homework03.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/homework/Homework03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/homework/Homework03.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/homework/Homework03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/homework/Homework04.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/homework/Homework04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/homework/Homework04.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/homework/Homework04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/other/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/other/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/other/Plus.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/other/Plus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/other/Plus.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/other/Plus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/varieble/Var01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/varieble/Var01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/varieble/Var01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/varieble/Var01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/varieble/Var02" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/varieble/Var02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/varieble/Var02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/varieble/Var02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/varieble/Var02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/varieble/Var02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/varieble/VarDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/varieble/VarDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/varieble/VarDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/varieble/VarDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/varieble/varieble_self/var1.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/varieble/varieble_self/var1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/varieble/varieble_self/var1.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/varieble/varieble_self/var1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/ArithmeticOperator/ArithmeticOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/ArithmeticOperator/ArithmeticOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/ArithmeticOperator/ArithmeticOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/ArithmeticOperator/ArithmeticOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/ArithmeticOperator/ArithmeticOperatorExercise01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/ArithmeticOperator/ArithmeticOperatorExercise01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/ArithmeticOperator/ArithmeticOperatorExercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/ArithmeticOperator/ArithmeticOperatorExercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/ArithmeticOperator/ArithmeticOperatorExercise02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/ArithmeticOperator/ArithmeticOperatorExercise02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/ArithmeticOperator/ArithmeticOperatorExercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/ArithmeticOperator/ArithmeticOperatorExercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/BinaryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/BinaryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/BinaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/BinaryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/BitOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/BitOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/BitOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/BitOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/BitOperator02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/BitOperator02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/BitOperator02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/BitOperator02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/Input.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/Input.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/RelationalOperator/RelationalOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/RelationalOperator/RelationalOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/RelationalOperator/RelationalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/RelationalOperator/RelationalOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/TernaryOperator/TernaryOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/TernaryOperator/TernaryOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/TernaryOperator/TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/TernaryOperator/TernaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/TernaryOperator/TernaryOperatorDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/TernaryOperator/TernaryOperatorDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/TernaryOperator/TernaryOperatorDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/TernaryOperator/TernaryOperatorDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/TernaryOperator/TernaryOperatorExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/TernaryOperator/TernaryOperatorExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/TernaryOperator/TernaryOperatorExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/TernaryOperator/TernaryOperatorExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/assignOperator/AssignOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/assignOperator/AssignOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/assignOperator/AssignOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/assignOperator/AssignOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/logicOperator/InverseOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/logicOperator/InverseOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/logicOperator/InverseOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/logicOperator/InverseOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/logicOperator/LogicOperator01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/logicOperator/LogicOperator01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/logicOperator/LogicOperator01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/logicOperator/LogicOperator01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/logicOperator/LogicOperator02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/logicOperator/LogicOperator02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/logicOperator/LogicOperator02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/logicOperator/LogicOperator02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/logicOperator/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/logicOperator/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/logicOperator/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/logicOperator/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/mywork/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/mywork/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/NestedIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/NestedIf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/NestedIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/NestedIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/Queen8.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/Queen8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/Return01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/Return01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/Return01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/Return01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/branch/If01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/branch/If01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/branch/If01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/branch/If01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/branch/If02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/branch/If02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/branch/If02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/branch/If02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/branch/If03.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/branch/If03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/branch/If03.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/branch/If03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/branch/IfExercise01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/branch/IfExercise01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/branch/IfExercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/branch/IfExercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/branch/Switch01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/branch/Switch01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/branch/Switch01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/branch/Switch01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/branch/SwitchDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/branch/SwitchDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/branch/SwitchDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/branch/SwitchDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/branch/SwitchExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/branch/SwitchExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/branch/SwitchExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/branch/SwitchExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/break_continue/Break01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/break_continue/Break01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/break_continue/Break01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/break_continue/Break01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/break_continue/BreakDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/break_continue/BreakDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/break_continue/BreakDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/break_continue/BreakDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/break_continue/BreakExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/break_continue/BreakExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/break_continue/BreakExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/break_continue/BreakExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/break_continue/BreakExercise02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/break_continue/BreakExercise02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/break_continue/BreakExercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/break_continue/BreakExercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/break_continue/Continue01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/break_continue/Continue01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/break_continue/Continue01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/break_continue/Continue01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/break_continue/ContinueDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/break_continue/ContinueDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/break_continue/ContinueDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/break_continue/ContinueDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/homework/Homework01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/homework/Homework01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/homework/Homework01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/homework/Homework01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/homework/Homework04.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/homework/Homework04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/homework/Homework04.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/homework/Homework04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/homework/Homework06.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/homework/Homework06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/homework/Homework06.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/homework/Homework06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/homework/Homework07.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/homework/Homework07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/homework/Homework07.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/homework/Homework07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/homework/Homework08.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/homework/Homework08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/homework/Homework08.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/homework/Homework08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/homework/Homework09.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/homework/Homework09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/homework/Homework09.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/homework/Homework09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/loop/DoWhile01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/loop/DoWhile01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/loop/DoWhile01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/loop/DoWhile01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/loop/DoWhileExercise01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/loop/DoWhileExercise01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/loop/DoWhileExercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/loop/DoWhileExercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/loop/DoWhileExercise02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/loop/DoWhileExercise02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/loop/DoWhileExercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/loop/DoWhileExercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/loop/For01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/loop/For01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/loop/For01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/loop/For01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/loop/ForDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/loop/ForDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/loop/ForDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/loop/ForDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/loop/ForExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/loop/ForExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/loop/ForExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/loop/ForExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/loop/ForExercise02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/loop/ForExercise02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/loop/ForExercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/loop/ForExercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/loop/While01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/loop/While01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/loop/While01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/loop/While01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/loop/WhileExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/loop/WhileExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/loop/WhileExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/loop/WhileExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/multyloop/MulFor.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/multyloop/MulFor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/multyloop/MulFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/multyloop/MulFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/multyloop/MulForExercise01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/multyloop/MulForExercise01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/multyloop/MulForExercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/multyloop/MulForExercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/multyloop/Stars.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/multyloop/Stars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/multyloop/Stars.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/multyloop/Stars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/Array01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/Array01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/Array01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/Array01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/Array02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/Array02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/Array02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/Array02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/ArrayAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/ArrayAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/ArrayAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/ArrayAdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/ArrayAdd02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/ArrayAdd02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/ArrayAdd02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/ArrayAdd02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/ArrayAssign.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/ArrayAssign.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/ArrayAssign.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/ArrayAssign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/ArrayCopy.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/ArrayCopy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/ArrayCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/ArrayCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/ArrayDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/ArrayDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/ArrayDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/ArrayDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/ArrayExercise01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/ArrayExercise01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/ArrayExercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/ArrayExercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/ArrayExercise02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/ArrayExercise02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/ArrayExercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/ArrayExercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/ArrayReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/ArrayReverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/ArrayReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/ArrayReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/ArrayReverse02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/ArrayReverse02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/Array/ArrayReverse02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/Array/ArrayReverse02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/homework/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/homework/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/homework/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/homework/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/homework/Homework04.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/homework/Homework04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/homework/Homework04.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/homework/Homework04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/homework/Homework05.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/homework/Homework05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/homework/Homework05.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/homework/Homework05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/homework/Homework07.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/homework/Homework07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/homework/Homework07.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/homework/Homework07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/homework/SeqSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/homework/SeqSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/homework/SeqSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/homework/SeqSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/twoDimensionArray/TwoDimensionalArray01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/twoDimensionArray/TwoDimensionalArray01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/twoDimensionArray/TwoDimensionalArray01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/twoDimensionArray/TwoDimensionalArray01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/twoDimensionArray/TwoDimensionalArray02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/twoDimensionArray/TwoDimensionalArray02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/twoDimensionArray/TwoDimensionalArray02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/twoDimensionArray/TwoDimensionalArray02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/twoDimensionArray/TwoDimensionalArray03.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/twoDimensionArray/TwoDimensionalArray03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/twoDimensionArray/TwoDimensionalArray03.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/twoDimensionArray/TwoDimensionalArray03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/twoDimensionArray/TwoDimensionalArray04.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/twoDimensionArray/TwoDimensionalArray04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/twoDimensionArray/TwoDimensionalArray04.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/twoDimensionArray/TwoDimensionalArray04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/twoDimensionArray/TwoDimensionalArray05.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/twoDimensionArray/TwoDimensionalArray05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/twoDimensionArray/TwoDimensionalArray05.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/twoDimensionArray/TwoDimensionalArray05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/twoDimensionArray/YangHui.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/twoDimensionArray/YangHui.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/twoDimensionArray/YangHui.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/twoDimensionArray/YangHui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/A01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/A01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/A02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/A02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/A03.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/A03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/AA.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/AA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/ABC.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/ABC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/Cale.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/Cale.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/HanoiTower.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/HanoiTower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/HanoiTower.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/HanoiTower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/HspMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/HspMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/MiGong.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/MiGong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/MiGong.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/MiGong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/Music.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/Music.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/MyCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/MyCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/MyTools.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/MyTools.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/PassObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/PassObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/T.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/T.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/Tom.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/Tom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/1/Tower.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/1/Tower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/Method_/Method01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/Method_/Method01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/Method_/Method02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/Method_/Method02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/Method_/Method02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/Method_/Method02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/Method_/MethodDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/Method_/MethodDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/Method_/MethodDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/Method_/MethodDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/Method_/MethodDetail02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/Method_/MethodDetail02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/Method_/MethodDetail02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/Method_/MethodDetail02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/Method_/MethodExercise01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/Method_/MethodExercise01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/Method_/MethodExercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/Method_/MethodExercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/Method_/MethodExercise02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/Method_/MethodExercise02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/Method_/MethodExercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/Method_/MethodExercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/Method_/MethodParameter01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/Method_/MethodParameter01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/Method_/MethodParameter01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/Method_/MethodParameter01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/Method_/MethodParameter02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/Method_/MethodParameter02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/Method_/MethodParameter02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/Method_/MethodParameter02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/Method_/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/Method_/Methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/constructor/Constructor01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/constructor/Constructor01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/constructor/Constructor01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/constructor/Constructor01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/constructor/ConstructorDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/constructor/ConstructorDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/constructor/ConstructorDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/constructor/ConstructorDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/constructor/ConstructorExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/constructor/ConstructorExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/constructor/ConstructorExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/constructor/ConstructorExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/constructor/ConstructorExerciseX.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/constructor/ConstructorExerciseX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/constructor/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/constructor/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/constructor/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/constructor/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework03.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework03.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework04.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework04.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework05.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework05.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework06.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework06.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework08.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework09.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework09.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework10.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework10.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework12.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework12.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework13.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/Homework13.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/Homework13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/MoraGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/MoraGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homework/MoraGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homework/MoraGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homeworkX/Homework12X.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homeworkX/Homework12X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homeworkX/Homework13X.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homeworkX/Homework13X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homeworkX/Homework1X.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homeworkX/Homework1X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homeworkX/Homework2X.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homeworkX/Homework2X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homeworkX/Homework3X.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homeworkX/Homework3X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homeworkX/Homework4X.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homeworkX/Homework4X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homeworkX/Homework5X.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homeworkX/Homework5X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homeworkX/Homework6X.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homeworkX/Homework6X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/homeworkX/Homework9X.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/homeworkX/Homework9X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/method/Method02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/method/Method02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/method/Method1.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/method/Method1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/method/MethodDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/method/MethodDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/method/MethodDetail02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/method/MethodDetail02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/method/MethodExercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/method/MethodExercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/method/MethodExercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/method/MethodExercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/method/MethodParameter01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/method/MethodParameter01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/method/MethodParameter02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/method/MethodParameter02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/object/Object01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/object/Object01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/object/Object01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/object/Object01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/object/Object02.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/object/Object02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/object/Object02.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/object/Object02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/object/Object03.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/object/Object03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/object/Object03.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/object/Object03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/object/PropertiesDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/object/PropertiesDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/object/PropertiesDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/object/PropertiesDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/overload/OverLoad01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/overload/OverLoad01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/overload/OverLoad01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/overload/OverLoad01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/overload/OverLoadExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/overload/OverLoadExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/overload/OverLoadExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/overload/OverLoadExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/recursion/Recursion01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/recursion/Recursion01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/recursion/Recursion01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/recursion/Recursion01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/recursion/RecursionExercise01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/recursion/RecursionExercise01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/recursion/RecursionExercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/recursion/RecursionExercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/scope/VarScope.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/scope/VarScope.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/scope/VarScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/scope/VarScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/scope/VarScopeDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/scope/VarScopeDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/scope/VarScopeDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/scope/VarScopeDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/this/TestPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/this/TestPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/this/TestPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/this/TestPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/this/This01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/this/This01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/this/This01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/this/This01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/this/ThisDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/this/ThisDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/this/ThisDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/this/ThisDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/varParameter/VarParameter01.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/varParameter/VarParameter01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/varParameter/VarParameter01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/varParameter/VarParameter01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/varParameter/VarParameterDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/varParameter/VarParameterDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/varParameter/VarParameterDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/varParameter/VarParameterDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/varParameter/VarParameterExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/varParameter/VarParameterExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/varParameter/VarParameterExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/varParameter/VarParameterExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea/hello/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/idea/hello/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea/hello/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/idea/hello/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea/hello/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/idea/hello/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea/hello/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/idea/hello/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea/hello/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/idea/hello/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea/hello/hello.iml" beforeDir="false" afterPath="$PROJECT_DIR$/idea/hello/hello.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea/hello/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/idea/hello/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea/hello/src/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/idea/hello/src/hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea/testpro1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/idea/testpro1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea/testpro1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/idea/testpro1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea/testpro1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/idea/testpro1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea/testpro1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/idea/testpro1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea/testpro1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/idea/testpro1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea/testpro1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/idea/testpro1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea/testpro1/src/ArratTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/idea/testpro1/src/ArratTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea/testpro1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/idea/testpro1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea/testpro1/src/testTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/idea/testpro1/src/testTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea/testpro1/testpro1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/idea/testpro1/testpro1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2bDRJrH3uBt1E7sKNrIq4Vm5Rfm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.AbstractExercise01.executor": "Debug",
+    "Application.AnonymousInnerClass (1).executor": "Run",
+    "Application.AnonymousInnerClass (2).executor": "Run",
+    "Application.AnonymousInnerClass (3).executor": "Run",
+    "Application.AnonymousInnerClass.executor": "Run",
+    "Application.AnonymousInnerClassDetail (1).executor": "Run",
+    "Application.AnonymousInnerClassDetail.executor": "Run",
+    "Application.ChildGame.executor": "Run",
+    "Application.CodeBlockDetail01.executor": "Run",
+    "Application.CodeBlockDetail04.executor": "Run",
+    "Application.Debug01.executor": "Debug",
+    "Application.Debug02.executor": "Debug",
+    "Application.Debug03.executor": "Debug",
+    "Application.Debug04.executor": "Debug",
+    "Application.DynamicBinding.executor": "Debug",
+    "Application.EnumExercise01.executor": "Run",
+    "Application.EnumExercise01X (1).executor": "Run",
+    "Application.EnumExercise01X (2).executor": "Run",
+    "Application.EnumExercise01X.executor": "Run",
+    "Application.EnumMethod.executor": "Run",
+    "Application.EqualsExercise01.executor": "Run",
+    "Application.EqualsExercise02.executor": "Debug",
+    "Application.ExtendsVsInterface.executor": "Run",
+    "Application.FinalDetail01.executor": "Run",
+    "Application.FinalDetail02 (1).executor": "Run",
+    "Application.FinalDetail02.executor": "Run",
+    "Application.Homework02X.executor": "Run",
+    "Application.Homework08.executor": "Run",
+    "Application.Homework09.executor": "Run",
+    "Application.Homework13.executor": "Run",
+    "Application.HouseRentApp (1).executor": "Run",
+    "Application.HouseRentApp.executor": "Run",
+    "Application.InnerClassExercise02X.executor": "Debug",
+    "Application.MemberInnerClass01.executor": "Run",
+    "Application.Override_.executor": "Run",
+    "Application.PloyArray.executor": "Run",
+    "Application.PloyParameter.executor": "Run",
+    "Application.PolyParameter.executor": "Run",
+    "Application.SingleTon02.executor": "Run",
+    "Application.SmallChangeSys.executor": "Run",
+    "Application.SmallChangeSysApp.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TestFrock (1).executor": "Run",
+    "Application.TestFrock.executor": "Debug",
+    "Application.TestTemplate.executor": "Run",
+    "Application.homework01X.executor": "Run",
+    "Application.homework03X (1).executor": "Run",
+    "Application.homework03X.executor": "Run",
+    "Application.homework05.executor": "Run",
+    "Application.homework10X.executor": "Run",
+    "Application.houserent.HouseRentApp.executor": "Run",
+    "Application.test (1).executor": "Run",
+    "Application.test (2).executor": "Run",
+    "Application.test (3).executor": "Run",
+    "Application.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/apple/Library/CloudStorage/OneDrive-个人/Cardiff_computing_cloud/Java/JavaStudy/newcode/chapter11X",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter11X" />
+      <recent name="$PROJECT_DIR$/chapter10X/src" />
+      <recent name="$PROJECT_DIR$/chapter09X/src/houserent/utils" />
+      <recent name="$PROJECT_DIR$/chapter09X" />
+      <recent name="$PROJECT_DIR$/chapter08" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter11X/src" />
+      <recent name="$PROJECT_DIR$/chapter10X/src/com/hspedu/interface_/interface02" />
+      <recent name="$PROJECT_DIR$/chapter09X" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hspedu.homeworkX.homework10X" />
+      <recent name="com.hspedu.homeworkX.homework09X" />
+      <recent name="com.hspedu.homeworkX.homework08X" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestFrock">
+    <configuration name="EnumExercise01X (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enum_.EnumExercise01X" />
+      <module name="chapter11X" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enum_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework02X" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.homeworkX.Homework02X" />
+      <module name="chapter11X" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.homeworkX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Override_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotation_.Override_" />
+      <module name="chapter11X" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="annotation_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFrock (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.homeworkX.TestFrock" />
+      <module name="chapter11X" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.homeworkX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFrock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.homeworkX.TestFrock" />
+      <module name="chapter11X" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.homeworkX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestFrock" />
+        <item itemvalue="Application.TestFrock (1)" />
+        <item itemvalue="Application.Homework02X" />
+        <item itemvalue="Application.Override_" />
+        <item itemvalue="Application.EnumExercise01X (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_392-corretto-1.8.0_392-f644763e9732-9fbf141a" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b141a76-861d-41ee-ac13-ce90e80422e7" name="Changes" comment="" />
+      <created>1705747594179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705747594179</updated>
+      <workItem from="1705747595367" duration="113000" />
+      <workItem from="1705747786896" duration="3866000" />
+      <workItem from="1705849876398" duration="10845000" />
+      <workItem from="1705918786293" duration="6180000" />
+      <workItem from="1705946899671" duration="19436000" />
+      <workItem from="1706570832296" duration="314000" />
+      <workItem from="1706574776539" duration="684000" />
+      <workItem from="1706608489879" duration="8224000" />
+      <workItem from="1706620679371" duration="9068000" />
+      <workItem from="1706660716529" duration="202000" />
+      <workItem from="1706660952105" duration="847000" />
+      <workItem from="1706743585888" duration="1036000" />
+      <workItem from="1706778406210" duration="2610000" />
+      <workItem from="1706820434717" duration="541000" />
+      <workItem from="1706866929057" duration="846000" />
+      <workItem from="1706887134436" duration="132000" />
+      <workItem from="1706887279085" duration="71000" />
+      <workItem from="1706887383621" duration="1024000" />
+      <workItem from="1706904958302" duration="1490000" />
+      <workItem from="1706958456170" duration="14191000" />
+      <workItem from="1707037461415" duration="13000" />
+      <workItem from="1707063512864" duration="18658000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

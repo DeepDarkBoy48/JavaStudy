@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter13X/Chapter13X.iml" filepath="$PROJECT_DIR$/Chapter13X/Chapter13X.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter08/chapter08.iml" filepath="$PROJECT_DIR$/chapter08/chapter08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter09X/chapter09X.iml" filepath="$PROJECT_DIR$/chapter09X/chapter09X.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10X/chapter10X.iml" filepath="$PROJECT_DIR$/chapter10X/chapter10X.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11X/chapter11X.iml" filepath="$PROJECT_DIR$/chapter11X/chapter11X.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter12X/chapter12X.iml" filepath="$PROJECT_DIR$/chapter12X/chapter12X.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter2/chapter2.iml" filepath="$PROJECT_DIR$/chapter2/chapter2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/chapter5.iml" filepath="$PROJECT_DIR$/chapter5/chapter5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/chapter6.iml" filepath="$PROJECT_DIR$/chapter6/chapter6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea/hello/hello.iml" filepath="$PROJECT_DIR$/idea/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newcode.iml" filepath="$PROJECT_DIR$/newcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea/testpro1/testpro1.iml" filepath="$PROJECT_DIR$/idea/testpro1/testpro1.iml" />
+    </modules>
+  </component>
+</project>
